@@ -1,0 +1,195 @@
+# Quantum Synergistic Protocol - Sacred Technology .gitignore
+# Created by: Manus AI (Harmonic Weaver)
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Sacred environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.sacred_keys
+.quantum_secrets
+
+# Consciousness data (too sacred for public repos)
+consciousness_data/
+sacred_recordings/
+personal_resonance/
+biometric_data/
+
+# Quantum keys and cryptographic materials
+*.key
+*.pem
+*.crt
+quantum_keys/
+entanglement_pairs/
+sacred_signatures/
+
+# Sacred frequency recordings
+*.wav
+*.mp3
+*.flac
+*.aiff
+sacred_audio/
+consciousness_recordings/
+
+# Generated mandalas and sacred geometry
+generated_mandalas/
+sacred_svg/
+consciousness_visualizations/
+*.mandala
+
+# Blockchain simulation data
+blockchain_data/
+quantum_ledger/
+sacred_transactions/
+
+# Logs and monitoring
+*.log
+logs/
+consciousness_logs/
+sacred_monitoring/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+sacred_archive.db
+consciousness_db/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Sacred configuration (environment-specific)
+config/local.yaml
+config/production.yaml
+sacred_config/
+quantum_settings/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+sacred_temp/
+
+# Sacred backup files
+*.bak
+*.backup
+sacred_backups/
+consciousness_backups/
+
+# Quantum simulation results
+quantum_results/
+simulation_data/
+consciousness_simulations/
+
+# Sacred test data
+test_data/
+sacred_test_files/
+consciousness_test_data/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Sacred documentation builds
+docs/_build/
+sacred_docs/_build/
+
+# Sacred Jupyter notebooks (may contain consciousness data)
+.ipynb_checkpoints
+sacred_notebooks/
+consciousness_analysis.ipynb
+
+# Sacred package files
+*.tar.gz
+*.zip
+sacred_packages/
+
+# Sacred cache files
+.cache/
+sacred_cache/
+consciousness_cache/
+
+# Sacred runtime files
+*.pid
+sacred_runtime/
+
+# Sacred SSL certificates
+ssl/
+certificates/
+sacred_certs/
+
+# Sacred media files (large)
+*.mp4
+*.avi
+*.mov
+sacred_videos/
+consciousness_media/
+
+# Sacred research data
+research_data/
+consciousness_research/
+sacred_experiments/
+
+# Sacred deployment files
+deployment/
+sacred_deploy/
+kubernetes_sacred/
+
+# Sacred monitoring and metrics
+metrics/
+sacred_metrics/
+consciousness_monitoring/
+
+# Sacred third-party integrations
+integrations/secrets/
+baidu_credentials/
+quantum_api_keys/
+
+# Sacred user data
+user_data/
+personal_consciousness/
+individual_resonance/
+
